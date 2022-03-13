@@ -24,10 +24,10 @@
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/Eclipse IDE-3DDC84?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-B7178C?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-FFCA28?style=flat-square&logo=GitHub&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring Security-39477F?style=flat-square&logo=Spring Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-683D87?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
